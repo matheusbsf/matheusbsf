@@ -1,4 +1,4 @@
-👋 Hey, I'am Matheus. Currently, I'am:
+👋 Hey, I'am Matheus, and I currently am:
 
 - 💻 Interested in Back-End software development
 - 🍀 Learning mainly Python and Java
